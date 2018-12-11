@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": false,
+	"name": "exit-instantly",
+	"author": "teralove",
+	"description": "Exit the game without having to wait 10 seconds.",
+	"options": {
+		"niceName": "Exit Instantly"
+	},
+    "servers": ["https://raw.githubusercontent.com/teralove/exit-instantly/master/"],
+    "supportUrl": "https://github.com/teralove/exit-instantly/issues"
+}
