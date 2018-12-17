@@ -1,10 +1,9 @@
 {
     "files": {
-        "index.js": "0c9c3f40a554f02073eaa31c2d175f182b87df2ce9147ad1af99d3e50f987b83",
-        "module.json": "3fa6444359a5c70442dc2ca640a2ee4485abfa6b0db819a1701b537189654968"
+        "index.js": "91e2ed77ca8ab35d84cc40d9040a562df9420066560154ddfcfc550cfcfb5957"
     },
     "defs": {
         "S_PREPARE_EXIT": 1,
-        "S_EXIT": 1
+        "S_EXIT": 3
     }
 }
